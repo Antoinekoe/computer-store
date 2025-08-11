@@ -1,10 +1,8 @@
 # Computer store - Website
 
-[![COmputer store](screenshot-git.png)]()
-
-## �� Project Overview
-
 This is a professional website for a computer and technology services company located in L'Aigle, Orne, France. The website showcases their comprehensive IT services, products, and expertise in computer repair, maintenance, and sales.
+
+[![COmputer store](screenshot-git.png)]()
 
 ## 🌐 Live Website
 
