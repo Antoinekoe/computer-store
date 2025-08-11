@@ -19,7 +19,7 @@ The computer store is a specialized IT company offering:
 - VOIP telephony solutions
 - EBP software partnership
 
-## ��️ Technical Stack
+## 🛠️ Technical Stack
 
 - **Platform:** WordPress
 - **Page Builder:** Elementor Pro
@@ -80,7 +80,7 @@ The website design emphasizes:
 - **Trust** - Building confidence through design and content
 - **Efficiency** - Quick access to services and contact information
 
-## �� Business Impact
+## Business Impact
 
 - **Online Presence** - Professional digital identity for local business
 - **Service Discovery** - Easy access to company offerings
